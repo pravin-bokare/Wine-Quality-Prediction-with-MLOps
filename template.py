@@ -14,7 +14,7 @@ for dir in dirs:
         pass
 
 files = [
-    'dcv.yaml',
+    'dvc.yaml',
     'params.yaml',
     '.gitignore',
     'README.md',

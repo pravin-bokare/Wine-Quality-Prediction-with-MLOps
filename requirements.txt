@@ -10,3 +10,4 @@ flake8
 flask
 gunicorn
 PyYAML
+from_root
